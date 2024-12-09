@@ -21,7 +21,7 @@ A simplified clone of the Google Keep app built using **React.js**. This app all
 ---
 ## Demo
 Check out the live demo here: [Google Keep Clone Demo](#)  
-*((https://mellow-banoffee-0f11f6.netlify.app))*
+*((https://chic-cat-dab601.netlify.app/))*
 
 ---
 ## Installation
